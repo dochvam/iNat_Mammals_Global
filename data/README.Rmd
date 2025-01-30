@@ -1,0 +1,7 @@
+---
+title: "README"
+output: html_document
+---
+
+Put data in this directory. Make sure not to commit any of the iNaturalist
+data files to Github as they'll exceed size limits.
